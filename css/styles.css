@@ -8,6 +8,12 @@ body{
     background-color: lightslategray;
 }
 
+.container label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: white;
+    margin-right: 20%;
+}
 
 
 
