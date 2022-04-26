@@ -13,12 +13,35 @@ body{
     font-size: 30px;
     color: white;
     margin-right: 40px;
+    text-shadow: 2px 2px blue;
 }
-
+/* The company logo section  */
 .container img{
     width: 35px;
     height: 45px;
     margin-right: 100px;
+}
+
+/* The banner section  */
+.firstBanner{
+    text-align: center;
+    background-image: url(../img/images\ -\ 2022-04-26T034838.396.jpeg);
+    min-height: 500px;
+    max-height: 680px;  
+     
+}
+
+.firstBanner h3{
+    font-size: 60px;
+    color: black;
+    margin-top: 2%; 
+    text-shadow: 2px 2px grey;   
+}
+.firstBanner p{
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+    font-style: italic;
 }
 
 
