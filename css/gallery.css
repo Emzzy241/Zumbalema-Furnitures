@@ -51,3 +51,7 @@ body{
 .container-fluid h3, p{
     color: black;
 }
+
+a{
+    color: black;
+}
